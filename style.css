@@ -1,0 +1,22 @@
+ p{
+  /* The "color" property defines the text color, in this case yellow. */
+  color: red;
+
+  /* The "background-color" property defines the background color, in this case black. */
+  /*background-color: black*/
+}
+
+h1 {
+color: red;
+text-decoration: underline;
+font-family: sans-serif;
+}
+
+section {
+background-color: #AED581;
+
+
+  .first {
+    font-size: 120%;
+    font-weight: bold;
+}  

@@ -1,0 +1,16 @@
+  .first {
+    font-size: 150%;
+    font-weight: italic;
+}  
+
+article p:last-child {
+    font-size: 120%;
+    font-weight: bold;
+} 
+
+a:link  /* unvisited link */
+a:visited  { color: #00FF00; }/* visited link */
+a:hover { /* mouse over link */
+color: #FF00FF;
+cursor: pointer; /* can set new pointer icon, usually a "hand" */
+}
