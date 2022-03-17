@@ -8,9 +8,6 @@ article p:last-child {
     font-weight: bold;
 } 
 
-a:link  /* unvisited link */
+
 a:visited  { color: #00FF00; }/* visited link */
-a:hover { /* mouse over link */
-color: #FF00FF;
-cursor: pointer; /* can set new pointer icon, usually a "hand" */
-}
+a:hover { /* mouse over link */ color: #FF00FF; }
