@@ -9,5 +9,9 @@ article p:last-child {
 } 
 
 
+a:link  /* unvisited link */
 a:visited  { color: #00FF00; }/* visited link */
-a:hover { /* mouse over link */ color: #FF00FF; }
+a:hover { /* mouse over link */
+color: #FF00FF;
+cursor: pointer; /* can set new pointer icon, usually a "hand" */
+}
